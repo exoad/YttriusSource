@@ -14,7 +14,7 @@ ___________________________________________________________
 
 Language: JavaScript
 
-Supported Languages (For translation): BASIC, TypeScript, C#, Java, Python, HTML
+Supported Languages (For translation): BASIC, TypeScript, C#, Java, Python, Clojure
 
 NodeJS Version: 12.15.1
 
