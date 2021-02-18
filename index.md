@@ -7,6 +7,7 @@ the Yttrius Bot.
 
 **Socials:**
 Discord: https://discord.gg/QwNTcpyZbF
+
 Creator: exoad#4166
 
 If you have any questions or comments, use the above link.
