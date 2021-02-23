@@ -25,3 +25,9 @@ ___________
 **Links:**
 
 Discord: https://discord.gg/wTAcPZxwqq
+
+_____
+
+## Dependencies Used:
+
+NPM: discord.js, jimp, canvacord, weather, node-fetch, node-superfetch, superagent
