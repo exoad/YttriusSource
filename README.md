@@ -1,4 +1,4 @@
-# YttriusSource [![Node.js Package](https://github.com/exoad/YttriusSource/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/exoad/YttriusSource/actions/workflows/npm-publish.yml)
+# YttriusSource
 The source version/public version of the Yttrius Bot
 
 All code posted here are not for the Yttrius bot itself, and will be for the bot YttriusSource.
